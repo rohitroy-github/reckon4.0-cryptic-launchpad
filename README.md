@@ -14,9 +14,6 @@ for thier project to launch their ready product into the global crypto market in
 <b>Project's Deployed Client | Link : <a href="https://cryptic-launchpad-client.netlify.app/">Client Side</a></b>
 <br/>
 <br />
-<b>Project's Deployed Server | Link : <a href="https://cryptic-launchpad-server.vercel.app/">Server Side</a></b>
-<br/>
-<br />
 <b>Project Description :</b>
 <br/>
 <br />
@@ -96,4 +93,4 @@ So, Cryptic Launchpad is a one stop solution for all the blockchain and crypto e
 <br /> -->
 <!-- <b>This is the main file for the Ureckathon project submission which is also used for deployment purposes.</b> -->
 <br>
-<b>This is the main backup file for the project Cryptic Launchpad which is also used for deployment purposes. Update the readme file according to the desired hackathon submission.</b>
+<b>This is the main file for the project Cryptic Launchpad which is also used for deployment purposes. </b>
